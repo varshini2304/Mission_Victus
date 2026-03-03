@@ -85,8 +85,6 @@ Splash (2s fade-in)
 - Widget tests for form validation and analytics rendering
 - Edit/Delete entries
 - Export/sync (cloud backup)
-- Localization and accessibility refinements
-- Screenshot assets in `README`
 
 ## Screenshots
 ### 1. Screen 1
